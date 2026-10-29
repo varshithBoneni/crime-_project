@@ -1,0 +1,10 @@
+Rows in raw file: 823
+ZZ TOTAL rows: 35 (state total equals sum of its other rows in 35 states)
+Removed ZZ TOTAL rows (double counting): 35
+Removed railway/GRP/CID/crime-branch units: 34
+Examples: GUNTAKAL RLY., SECUNDERABAD RLY., VIJAYAWADA RLY., JAMALPUR RLY., KATIHAR RLY., MUZAFFARPUR RLY., PATNA RLY., GRP RAIPUR
+Rows in cleaned file: 754
+Missing values after cleaning: 0
+Duplicate (state, district) rows: 0
+Negative counts: 0
+Zero counts were kept as zero (NCRB table reports 0 for no registered cases).
